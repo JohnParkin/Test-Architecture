@@ -1,2 +1,2 @@
 # Test-Architecture
-This project hold timeline and time management utilities.
+This project holds some of my test utilities.
